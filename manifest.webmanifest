@@ -1,0 +1,17 @@
+{
+  "name": "MindTamin Lesson Course",
+  "short_name": "MindTamin",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f8ff",
+  "theme_color": "#5a4fcf",
+  "description": "Aplikasi administrasi MindTamin Lesson Course",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
